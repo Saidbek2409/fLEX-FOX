@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Nunito:wght@800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.big-block2 {
+    width: 100%;
+    position: relative;
+    margin: 0 auto;
+
+}
+
+.text h2 {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 65px;
+    text-align: center;
+    color: #252D35;
+    padding-bottom: 15px;
+
+}
+
+.text p {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #252D35;
+
+}
+
+
+.mini-father {
+    display: flex;
+    gap: 169.7px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50.4px;
+}
+
+.mini1 {
+    margin-bottom: 19.5px;
+}
+
+.mini-block1 {
+    text-align: center;
+
+}
+
+.mini-block1 p {
+    padding-top: 12px;
+}
+
+.mini-block1 h2 {
+    text-align: center;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 61px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #252D35;
+}
+
+.container-main-left h1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 75px;
+    color: #252D35;
+}
+
+.container-main-left p {
+    color: #252D35;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    padding-top: 30px;
+}
+
+.container-main-left button {
+    box-sizing: border-box;
+    width: 293px;
+    height: 50px;
+    left: 200px;
+    top: 3317px;
+    background: #FFFFFF;
+    border: 2px solid #B8884B;
+    margin-top: 30px;
+    color: #B8884B;
+ position: relative;
+ right: 10px;
+}
+
+.container-main-left span {
+    color: #B8884B;
+}
